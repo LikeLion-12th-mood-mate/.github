@@ -82,7 +82,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 
 
 ## 시스템 구성도
-<img width="700" alt="Rectangle 2" src="https://github.com/user-attachments/assets/22747d1b-bf3a-4475-98ab-82e4a4500d92" />
+<img width="700" alt="Frame 1" src="https://github.com/user-attachments/assets/060a1173-ca4f-4e2a-a31c-8e88d48482e5" />
 
 
 ## 배포 구성도
