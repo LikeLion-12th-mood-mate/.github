@@ -25,8 +25,11 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ## 화면 구성
 **MainPage1**|**MainPage2**|**MainPage3**|**MainPage4**
 :-----:|:-----:|:-----:|:-----:
-<img src="https://github.com/user-attachments/assets/cb89b64c-08c5-455f-bf7b-418c9efdaf67" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/mainAfter.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main1.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main2.png" width="100%">
-메인 화면(오전)|메인 화면(오후)|2번째 메인 화면|3번째 메인 화면
+<img src="https://github.com/user-attachments/assets/cb89b64c-08c5-455f-bf7b-418c9efdaf67" width="100%">|<img src="https://github.com/user-attachments/assets/1edd69f1-23a2-4c9c-b97a-b8f758f75c15" width="100%">|<img src="https://github.com/user-attachments/assets/6c248f0d-063b-4955-81f6-1b93f1d66c5f" width="100%">|<img src="https://github.com/user-attachments/assets/72a7c43e-395d-49e5-aaea-05ea8774fa49" width="100%">
+상담사 목록|상담사 정보|채팅 목록|실시간 채팅
+
+
+
 
 
 ## 시스템 구성도
