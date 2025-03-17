@@ -22,6 +22,13 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ![Redux](https://img.shields.io/badge/-Redux-FF4154?style=for-the-badge&logo=Redux&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
+## 화면 구성
+**MainPage1**|**MainPage2**|**MainPage3**|**MainPage4**
+:-----:|:-----:|:-----:|:-----:
+<img src="https://github.com/user-attachments/assets/cb89b64c-08c5-455f-bf7b-418c9efdaf67" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/mainAfter.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main1.png" width="100%">|<img src="/frontend/src/assets/readmeAssets/Mainpage/Main2.png" width="100%">
+메인 화면(오전)|메인 화면(오후)|2번째 메인 화면|3번째 메인 화면
+
+
 ## 시스템 구성도
 
 <img width="399" alt="image" src="https://github.com/user-attachments/assets/55420f5f-c809-4177-afb0-2cc283040dca">
