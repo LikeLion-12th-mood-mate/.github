@@ -14,6 +14,15 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 - **AI 기반 심리 분석:** AI가 사용자의 일기를 분석하여 심리 상태를 파악하고, 맞춤형 조언을 제공하여 감정 변화를 추적하는 데 도움을 줍니다.
 - **다양한 프로그램 정보 제공:** 다양한 정신건강 프로그램 정보를 제공하여 사용자가 관심 있는 프로그램에 쉽게 접근할 수 있도록 합니다.
 
+#### 프론트엔드
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23181717.svg?style=for-the-badge&logo=zustand&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-FF4154?style=for-the-badge&logo=Redux&logoColor=white)
+
+
 
 ### 사용법
 - 상담사와의 채팅은 상담사와의 채팅방 개설 후 해당 상담사로 로그인하면 테스트해 볼 수 있습니다. 예시로 상담사 몇명의 아이디 비밀번호를 알려드리겠습니다.
