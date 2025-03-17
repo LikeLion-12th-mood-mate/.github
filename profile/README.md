@@ -63,7 +63,3 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 - **금희수** - Frontend Developer
 - **차현우** - Frontend Developer
 
-
-## 연락처
-
-궁금한 점이 있거나 문의 사항이 있으시면, 다음 이메일로 연락해 주세요: lhj6364@naver.com
