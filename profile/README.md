@@ -74,7 +74,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
   </tr>
   <tr>
     <td width="33%"><img src="https://github.com/user-attachments/assets/221082b3-a3f5-43e4-83be-f7c5a3ab7e6c" width="100%" height="600px"></td>
-    <td width="33%"><img src="https://github.com/user-attachments/assets/49cef969-3658-4346-a0ad-c3a228c928fe" width="100%"></td>
+    <td width="33%"><img src="https://github.com/user-attachments/assets/dc70640e-d059-4e0f-b2b0-9e161232aab0" width="100%"></td>
     <td width="33%"><img src="https://github.com/user-attachments/assets/6aa5a12e-787f-4948-b975-f612e8590a73" width="100%"></td>
   </tr>
 </table>
