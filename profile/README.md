@@ -20,6 +20,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-FF4154?style=for-the-badge&logo=Redux&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-00C7B7.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 #### 백엔드
