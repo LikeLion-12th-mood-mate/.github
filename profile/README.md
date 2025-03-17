@@ -7,11 +7,13 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 - **정신건강 전문가와의 온라인 상담:** 사용자가 필요할 때 정신건강 전문가와 연결되어 상담을 받을 수 있는 기능을 제공합니다.
 - **일기 분석:** 사용자가 작성한 일기를 AI가 분석하여 맞춤형 조언을 제공합니다.
 - **프로그램 정보 제공:** 사용자의 심리를 위한 다양한 온/오프라인 프로그램 정보를 제공하여 쉽게 찾아보고 참여할 수 있습니다.
+<br/>
 
 ### 차별화 요소
 - **전문가 네트워크:** 정신건강 전문가와의 직접적인 연결 및 상담 지원을 통해 조기 개입과 적절한 치료를 제공합니다.
 - **AI 기반 심리 분석:** AI가 사용자의 일기를 분석하여 심리 상태를 파악하고, 맞춤형 조언을 제공하여 감정 변화를 추적하는 데 도움을 줍니다.
 - **다양한 프로그램 정보 제공:** 다양한 정신건강 프로그램 정보를 제공하여 사용자가 관심 있는 프로그램에 쉽게 접근할 수 있도록 합니다.
+<br/>
 
 #### 프론트엔드
 
@@ -21,6 +23,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ![Redux](https://img.shields.io/badge/-Redux-FF4154?style=for-the-badge&logo=Redux&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
+<br/>
 
 #### 백엔드
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
@@ -30,6 +33,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ![Mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<br/>
 
 ## 화면 구성
 <table>
@@ -79,7 +83,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
   </tr>
 </table>
 
-
+<br/>
 
 ## 시스템 구성도
 <img width="700" alt="Frame 1" src="https://github.com/user-attachments/assets/060a1173-ca4f-4e2a-a31c-8e88d48482e5" />
