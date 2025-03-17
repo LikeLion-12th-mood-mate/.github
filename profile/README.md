@@ -22,6 +22,15 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ![Redux](https://img.shields.io/badge/-Redux-FF4154?style=for-the-badge&logo=Redux&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
+#### 백엔드
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+
 ## 화면 구성
 **상담사 목록**|**상담사 정보**|**채팅 목록**|**실시간 채팅**
 :-----:|:-----:|:-----:|:-----:
