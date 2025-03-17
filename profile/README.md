@@ -57,9 +57,9 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 ## 팀원 소개
 
 - **이수정** - Designer
-- **김규민** - Backend Developer / ML
 - **임형준** - Frontend Developer
-- **최재우** - Backend Developer
 - **금희수** - Frontend Developer
 - **차현우** - Frontend Developer
+- **김규민** - Backend Developer / ML
+- **최재우** - Backend Developer
 
