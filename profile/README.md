@@ -29,7 +29,7 @@ MoodMate는 사용자들이 일상 속에서 자신의 정신건강을 체계적
 
 **검색**|**상담 프로그램목록**|**상담프로그램 정보**|**일기 작성**
 :-----:|:-----:|:-----:|:-----:
-<img src="https://github.com/user-attachments/assets/012e3889-6c29-40b2-a7e4-12172029c9dd" width="100%">|<img src="https://github.com/user-attachments/assets/d5b9be92-2f4a-46c7-afcf-5140fc70861a" width="100%">|<img src="https://github.com/user-attachments/assets/7baeae90-6a09-4578-89a7-8826a039e6e9" width="100%">|<img src="https://github.com/user-attachments/assets/6dce560a-4823-4eb8-be6f-d5145dd24999" width="100%">
+<img src="https://github.com/user-attachments/assets/7c2a9df1-9a0e-4ae1-b3ff-1ff0dc8293df" width="100%">|<img src="https://github.com/user-attachments/assets/d5b9be92-2f4a-46c7-afcf-5140fc70861a" width="100%">|<img src="https://github.com/user-attachments/assets/7baeae90-6a09-4578-89a7-8826a039e6e9" width="100%">|<img src="https://github.com/user-attachments/assets/6dce560a-4823-4eb8-be6f-d5145dd24999" width="100%">
 
 
 
